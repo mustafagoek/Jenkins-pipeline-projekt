@@ -1,1 +1,1 @@
-# Jenkins-pipeline-projekt
+# This is a jenkins_pipeline example project
